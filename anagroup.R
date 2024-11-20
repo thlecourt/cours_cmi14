@@ -108,9 +108,6 @@ for (i in 2:8) {
 }
 
 
-## Cessions
 
-cessions <- data_groupe %>%
-  filter(groupe2 == "Cession")
 
 ### 
