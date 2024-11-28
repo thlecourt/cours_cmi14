@@ -1,3 +1,7 @@
+#coucou c est Stan
+
+
+
 library(DBI)
 library(RPostgres)
 library(getPass)
