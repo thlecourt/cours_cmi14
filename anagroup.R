@@ -106,11 +106,3 @@ for (i in 2:8) {
     data_groupe[idx_to_replace, i] <- next_col[idx_to_replace]
   }
 }
-
-
-
-
-### UNE NOUVELLE SECTION AVEC DE NOUVELLES CHOSES
-
-#### COUCOU LES CMI !
-##et encore une modif
